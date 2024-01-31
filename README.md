@@ -1,7 +1,8 @@
 # Games Project
 
 Steps for run:
-´´´sh
+```sh
 cd game/
-python3 main.py´´´
+python3 main.py
+```
 
